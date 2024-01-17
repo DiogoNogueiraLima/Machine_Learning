@@ -19,5 +19,5 @@ conda install python
 
 conda install --file requirements
 
-### you should install this extension (pingouin>=0.5.4) by yourself using the steps below:
+### you should install this extension in the terminal on your enviroment (pingouin>=0.5.4) by yourself using the intruction below:
 conda install -c conda-forge pingouin
